@@ -36,7 +36,7 @@ Published as a **peer-reviewed paper at IEEE ECCE 2025** — [Control System Des
 ---
 
 ## 📸 Gallery
-![More Photos](https://github.com/mdlaisurrahmankhanturjo/mdlaisurrahmankhanturjo/blob/main/images/vtol_uav_gallery/)
+- [More Photos](https://github.com/mdlaisurrahmankhanturjo/mdlaisurrahmankhanturjo/blob/main/images/vtol_uav_gallery/)
 
 ---
 
