@@ -50,8 +50,6 @@ Published as a **peer-reviewed paper at IEEE ECCE 2025** — [Control System Des
 3. **Firmware**
    - Flash [`code/flight_controller/code.ino`](https://github.com/mdlaisurrahmankhanturjo/mdlaisurrahmankhanturjo/blob/main/code/vtol_uav/code.ino.txt) to Arduino-compatible board
    - For STM32, use `embedded/stm32_code/` with STM32CubeIDE
-4. **Flight Testing**
-   - Follow safety protocols in [`docs/design_notes.md`](https://github.com/mdlaisurrahmankhanturjo/mdlaisurrahmankhanturjo/blob/main/docs/vtol_uav/design_notes.md)
 
 ---
 
