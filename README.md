@@ -78,4 +78,9 @@ If you use this project or reference its methods in your research, please cite:
   year      = {2025},
   address   = {Dhaka, Bangladesh},
   doi       = {10.1109/ECCE.2025.11013869}
-}
+
+
+## 📬 Contact
+**Md Laisur Rahman Khan Turjo**  
+📧 your.email@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/mdlaisurrahmankhanturjo) | [GitHub](https://github.com/mdlaisurrahmankhanturjo)
